@@ -7,11 +7,10 @@ This is a test repo baby
 
 
 ### Table of Contents
-code
-data
-images
-references
-
+![code](code)
+![data](data)
+![images](images)
+![refereces](references)
 
 **This is bold text**
 
