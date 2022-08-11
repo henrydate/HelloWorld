@@ -1,5 +1,5 @@
 # HelloWorld
-This is a test repo baby
+This is a test repo
 
 ## FinTech Repo
 
